@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/goldene-zeiten-mit-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Goldene Zeiten mit dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/goldene-zeiten-mit-dir/) |
+| **Get License** | [License this song: Goldene Zeiten mit dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/goldene-zeiten-mit-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig in den Wagen, der Motor ist an, Baby, let's go
+> Goldene Zeiten mit dir, wir brenn'n diese Stadt heute nieder
+> Spür den Bass in der Brust, wir sind high von der Show
+> Keine Regeln für uns, ich brauch dich jetzt immer und wieder
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
