@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/goldene-zeiten-mit-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Goldene Zeiten mit dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/goldene-zeiten-mit-dir/) |
+| **Get License** | [Official Music Licensing for Goldene Zeiten mit dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/goldene-zeiten-mit-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2d0e37179a5b642cbe26c20b07c37f49cb930ef85a9e520a8fb9c05ed0ed814d` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
